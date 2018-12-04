@@ -1,5 +1,12 @@
 # CustomUISwitch
 
+Modified Project of https://github.com/factoryhr/CustomUISwitch
+
+- Fixed chattering issue
+- Added thumbTintColor (on/off)
+
+----
+
 This is an example of a custom UISwitch implementation created by subclassing the UIControl class.
 
 You can find a tutorial for this class on our [blog](http://plavatvornica.com/blog/):
